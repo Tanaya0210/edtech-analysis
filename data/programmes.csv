@@ -1,0 +1,6 @@
+programme_id,programme_name,category,price,duration_weeks
+P001,Data Analytics,Data,499,12
+P002,Data Science,Data,599,16
+P003,Business Analytics,Business,449,12
+P004,Cybersecurity,Technology,549,16
+P005,Digital Marketing,Marketing,399,10

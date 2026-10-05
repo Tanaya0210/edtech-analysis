@@ -1,0 +1,41 @@
+campaign_id,campaign_name,channel,start_date,end_date,campaign_spend,impressions,clicks
+C001,University Partnership Campaign 1,University Partnership,2024-09-27,2024-11-22,4008.61,64886,6765
+C002,Meta Ads Campaign 2,Meta Ads,2024-08-02,2024-08-26,2566.62,136324,11863
+C003,Meta Ads Campaign 3,Meta Ads,2025-10-23,2025-11-07,3748.99,74925,7449
+C004,Google Ads Campaign 4,Google Ads,2024-07-10,2024-08-13,3278.67,95305,12809
+C005,Referral Campaign 5,Referral,2025-07-14,2025-08-23,3253.34,132537,2547
+C006,University Partnership Campaign 6,University Partnership,2025-11-30,2025-12-29,1547.47,139981,3234
+C007,Meta Ads Campaign 7,Meta Ads,2025-07-20,2025-08-05,4369.73,51606,14856
+C008,LinkedIn Campaign 8,LinkedIn,2024-06-15,2024-07-16,4769.98,78148,7541
+C009,University Partnership Campaign 9,University Partnership,2024-04-01,2024-05-31,3574.69,58555,11248
+C010,Meta Ads Campaign 10,Meta Ads,2024-07-24,2024-08-23,1664.51,29457,1521
+C011,Google Ads Campaign 11,Google Ads,2025-04-21,2025-05-22,3988.1,47065,10673
+C012,University Partnership Campaign 12,University Partnership,2024-09-26,2024-11-09,4648.43,50397,12490
+C013,University Partnership Campaign 13,University Partnership,2024-10-22,2024-11-25,2249.05,92798,9768
+C014,Google Ads Campaign 14,Google Ads,2024-08-04,2024-10-01,1134.16,61214,12576
+C015,LinkedIn Campaign 15,LinkedIn,2025-06-04,2025-07-11,2276.97,143767,10187
+C016,Meta Ads Campaign 16,Meta Ads,2025-05-13,2025-06-12,3701.04,71858,13166
+C017,Referral Campaign 17,Referral,2025-05-04,2025-06-25,3429.85,32662,8892
+C018,University Partnership Campaign 18,University Partnership,2024-02-02,2024-03-09,3509.79,133684,14934
+C019,University Partnership Campaign 19,University Partnership,2025-06-30,2025-07-14,2223.17,149182,14273
+C020,Meta Ads Campaign 20,Meta Ads,2024-01-05,2024-02-13,1561.93,120989,9562
+C021,Meta Ads Campaign 21,Meta Ads,2025-01-27,2025-02-24,2423.93,132409,7535
+C022,Referral Campaign 22,Referral,2025-11-21,2025-12-31,3363.85,117059,5616
+C023,University Partnership Campaign 23,University Partnership,2025-04-29,2025-06-04,3219.88,72623,10414
+C024,Meta Ads Campaign 24,Meta Ads,2024-03-26,2024-05-06,4683.64,74044,10289
+C025,LinkedIn Campaign 25,LinkedIn,2025-10-07,2025-11-17,4116.52,35939,10673
+C026,Meta Ads Campaign 26,Meta Ads,2025-10-01,2025-11-11,2103.34,135117,7892
+C027,LinkedIn Campaign 27,LinkedIn,2025-01-11,2025-02-20,2421.99,102787,13760
+C028,LinkedIn Campaign 28,LinkedIn,2024-09-15,2024-11-06,1240.95,146602,13436
+C029,Referral Campaign 29,Referral,2024-08-12,2024-10-06,2019.27,83530,12137
+C030,LinkedIn Campaign 30,LinkedIn,2025-11-22,2025-12-17,1633.02,77172,4196
+C031,LinkedIn Campaign 31,LinkedIn,2025-11-29,2025-12-14,2762.06,122181,1354
+C032,Referral Campaign 32,Referral,2024-08-12,2024-08-26,1578.03,60859,11469
+C033,University Partnership Campaign 33,University Partnership,2025-03-14,2025-04-07,2163.45,35342,4889
+C034,Referral Campaign 34,Referral,2025-09-01,2025-09-20,2294.71,120078,6787
+C035,LinkedIn Campaign 35,LinkedIn,2024-07-19,2024-08-07,3631.16,101906,1159
+C036,University Partnership Campaign 36,University Partnership,2025-02-06,2025-03-17,2804.42,143983,2234
+C037,University Partnership Campaign 37,University Partnership,2025-05-03,2025-06-18,2289.07,110689,11611
+C038,LinkedIn Campaign 38,LinkedIn,2025-04-17,2025-05-23,2936.52,40306,762
+C039,University Partnership Campaign 39,University Partnership,2024-05-23,2024-07-01,4919.76,121472,2549
+C040,LinkedIn Campaign 40,LinkedIn,2024-10-30,2024-11-24,3012.32,39855,12782
