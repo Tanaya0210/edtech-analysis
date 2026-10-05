@@ -27,16 +27,18 @@ This project brings those sources together to answer questions such as:
 
 ## Data Model
 
-The project contains six interconnected business datasets:
+The project uses six interconnected datasets representing the customer journey from marketing acquisition through engagement, enrolment and payment.
 
-| Dataset | Purpose |
-|---|---|
-| `campaigns` | Marketing campaign and acquisition information |
-| `leads` | Prospective customer records |
-| `interactions` | Customer engagement and interaction activity |
-| `programmes` | Available education programmes |
-| `enrolments` | Lead-to-programme enrolment records |
-| `payments` | Payment and revenue information |
+![EdTech Analytics Entity Relationship Diagram](edtech_analytics_ERD.png)
+
+The relational structure connects:
+
+- **Campaigns** → marketing activity and acquisition channels
+- **Leads** → prospective customers and their programme interests
+- **Interactions** → engagement activity throughout the customer journey
+- **Programmes** → available education products and pricing
+- **Enrolments** → conversion from leads into programme enrolments
+- **Payments** → revenue, payment status and refunds
 
 The dataset includes:
 
@@ -44,7 +46,7 @@ The dataset includes:
 - **35,249 interactions**
 - **1,712 enrolments**
 
-The data was synthetically generated to simulate a multi-stage EdTech customer journey.
+All records were synthetically generated for this portfolio project.
 
 ---
 
